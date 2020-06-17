@@ -426,7 +426,7 @@ def update_figure(selected_time):
     }
 #*--------------------------------Todo liste-------------------------------------------------------*#
 
-# >>> trouver comment ajouter une fiche css sinon passer en html
+# >>> Personnaliser le frontend du dashboard
 
 #---------------------------------------------------------------------------
 
